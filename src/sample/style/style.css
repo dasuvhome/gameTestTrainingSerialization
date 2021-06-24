@@ -1,0 +1,4 @@
+.button:pressed{
+
+    -fx-text-fill: red;
+}
